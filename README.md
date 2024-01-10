@@ -20,39 +20,39 @@ a playlist
 
 ### Habits 
 
-![Habits](imgs/Habits.png)
+<img src="imgs/Habits.png" width="250">
 
 ### Tasks
 
-![Tasks](imgs/Tasks.png)
+<img src="imgs/Tasks.png" width="250">
 
 ### Music
 
-![MusicList](imgs/MusicList.png)
+<img src="imgs/MusicList.png" width="250">
 
 ### Reproductor
 
-![Reproductor](imgs/Reproductor.png)
+<img src="imgs/Reproductor.png" width="250">
 
 ### Playlist
 
-![Playlist](imgs/Playlist.png)
+<img src="imgs/Playlist.png" width="250">
 
 ### Pet
 
-![Pet](imgs/Pet.png)
+<img src="imgs/Pet.png" width="250">
 
 ### Shop
 
-![Shop](imgs/Shop.png)
+<img src="imgs/Shop.png" width="250">
 
 ### Habits with certain music
 
-![HabitsWithMusic](imgs/HabitsWithMusic.png)
+<img src="imgs/HabitsWithMusic.png" width="250">
 
 ### Themes and pets!
 
-![HabitsWithTheme](imgs/ThemedHabits.png)
+<img src="imgs/ThemedHabits.png" width="250">
 
 ### How to run
 
