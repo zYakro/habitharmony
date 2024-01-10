@@ -1,16 +1,91 @@
-# flutter_audio_service_demo
+# HabitHarmony
 
-A new Flutter project.
+HabitHarmony is a motivation app that helps you build habits using music as a motivador!
+You can associate specific songs to certain habits and tasks and then reproduce them as
+a playlist
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Music reproductor
+* Habits tracker with specific music 
+* Tasks tracker with specific music
+* Sub tasks with specific music
+* Custom playlist
+* Daily motivation quotes
+* Highly customizable with multiple pets & themes
+* A pet that levels up when you complete a habit
+* Background music
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Habits 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Habits](imgs/Habits.png)
+
+### Tasks
+
+![Tasks](imgs/Tasks.png)
+
+### Music
+
+![MusicList](imgs/MusicList.png)
+
+### Reproductor
+
+![Reproductor](imgs/Reproductor.png)
+
+### Playlist
+
+![Playlist](imgs/Playlist.png)
+
+### Pet
+
+![Pet](imgs/Pet.png)
+
+### Shop
+
+![Shop](imgs/Shop.png)
+
+### Habits with certain music
+
+![HabitsWithMusic](imgs/HabitsWithMusic.png)
+
+### Themes and pets!
+
+![HabitsWithTheme](imgs/ThemedHabits.png)
+
+### How to run
+
+#### Install the app in your phone
+
+You can install the app in your phone using the executable found in the [releases](https://github.com/zYakro/habitharmony/releases)
+
+#### Run the app locally
+
+You'll need [Flutter](https://docs.flutter.dev/get-started/install) and [Dart](https://dart.dev/get-dart) installed
+
+1. Clone the repository
+
+```bash
+  git clone https://github.com/zYakro/habitharmony.git
+```
+
+2. Go to the project folder
+
+```bash
+  cd habitharmony
+```
+
+3. Install the dependencies
+
+```bash
+  flutter pub get
+```
+
+4. Run
+
+```bash
+  flutter run
+```
+
+You'll need a physical device to run the app, or use Android Studio
